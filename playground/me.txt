@@ -1,5 +1,0 @@
-{{#user}}
-Name: Rutvik Purohit
-Skills: HTML, CSS, JS, MySQL, Python, Java, OpenCV
-Email: rutvikpurohit10@gmail.com
-{{/user}}
